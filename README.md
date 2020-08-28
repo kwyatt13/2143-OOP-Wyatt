@@ -3,6 +3,4 @@
 #### Repo: 2143 OOP
 #### Email: kylco13@gmail.com
 #### Image:
-![Kyler's image](C:\Users\kylco\Pictures\IMG_2734.png)
-#### Avatar:
-![Avatar](https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/einstein_avatar.png)
+![IMG_2734](https://user-images.githubusercontent.com/46790761/91510230-0ede0a00-e8a2-11ea-8c8a-b8ca66ada8d9.png)
