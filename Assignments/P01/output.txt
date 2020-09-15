@@ -1,0 +1,6 @@
+Name: Kyler Wyatt
+Program: P01
+Date: 15 Sep 2020
+Start Size: 10
+Max Size: 128
+Final Size: 64
