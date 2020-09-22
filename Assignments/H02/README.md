@@ -27,6 +27,8 @@
 
 #### Encapsulation
 > Encapsulation is taking multiple methods that work on the same data and putting them together in a more specific scope. Essentially, encapsulation is bundling functions with data inside of a class.
+>
+><img src="https://miro.medium.com/max/559/1*CLBzWEo22SXvh-0dT3eV_w.png" width=250>
 
 #### Friends
 > Friends are functions that are given the same access to private or protected data as methods.
