@@ -8,6 +8,8 @@
 
 #### Abstraction
 > Abstraction in object oriented programming is the simplification of data by extracting what is needed from a larger set of data.
+>
+><img src="https://i.ytimg.com/vi/3EMkTtk9MU8/maxresdefault.jpg" width=250>
 
 #### Attributes/Properties
 > Attributes or Properties are aspects, or characteristics, of components of the program, such as member variables of a class.
