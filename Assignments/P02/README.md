@@ -7,17 +7,20 @@ UML markup for Program 2.
 ## Classes
 
 ### Card
+
 #### Description
-> Represents Values
+> Represents Values for a card.
+
 #### Data
 - Rank
 - Value
+
 #### Methods
-> SetRank
-> SetValue
-> GetRank
-> GetValue
-> Print
+- SetRank
+- SetValue
+- GetRank
+- GetValue
+- Print
 
 
 ## UML Diagram
