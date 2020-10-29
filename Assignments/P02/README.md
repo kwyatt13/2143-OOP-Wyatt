@@ -2,19 +2,24 @@
 ### Kyler Wyatt
 ### Description:
 
-This program implements a list data structure that links together nodes of integers. It does more stuff, but we don't need to write that here.
+UML markup for Program 2.
 
-### Files
+## Classes
 
-|   #   | File     | Description                      |
-| :---: | -------- | -------------------------------- |
-|   1   | main.cpp | Main driver of my list program . |
+### Card
+#### Description
+> Represents Values
+#### Data
+> Rank
+> Value
+#### Methods
+> SetRank
+> SetValue
+> GetRank
+> GetValue
+> Print
 
 
-### Instructions
-
-- This program does not require any non standard libraries
-
-### Example Command
+## UML Diagram
 
 - None for now.
