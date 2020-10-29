@@ -65,7 +65,7 @@ UML markup for Program 2.
 - Win - Add money to bank.
 - Hit - Add a card to hand.
 
-## Class Dealer
+### Class Dealer
 
 #### Description
 > Class to represent the dealer
@@ -81,7 +81,7 @@ UML markup for Program 2.
 - Hit - Add a card to hand.
 - Deal - When the dealer deals cards.
 
-## Class Game
+### Class Game
 
 #### Description
 > In charge of running the game.
