@@ -12,8 +12,8 @@ UML markup for Program 2.
 > Represents Values for a card.
 
 #### Data
-- Rank
-- Value
+- Rank - Where it ranks in the deck.
+- Value - Number value of the cards worth.
 
 #### Methods
 - SetRank
