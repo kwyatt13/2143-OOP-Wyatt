@@ -96,4 +96,4 @@ UML markup for Program 2.
 - StartRound - Begins a round.
 
 ## UML Diagram
-><img src="https://github.com/kwyatt13/2143-OOP-Wyatt/blob/master/Images/P02%20UML%20Chart.png" width=250>
+><img src="https://github.com/kwyatt13/2143-OOP-Wyatt/blob/master/Images/P02%20UML%20Chart.png" width=750>
