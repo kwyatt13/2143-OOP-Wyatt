@@ -96,5 +96,4 @@ UML markup for Program 2.
 - StartRound - Begins a round.
 
 ## UML Diagram
-
-- None for now.
+><img src="https://miro.medium.com/max/559/1*CLBzWEo22SXvh-0dT3eV_w.png" width=250>
