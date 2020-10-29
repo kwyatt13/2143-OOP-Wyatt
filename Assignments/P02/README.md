@@ -10,8 +10,8 @@ UML markup for Program 2.
 #### Description
 > Represents Values
 #### Data
-> Rank
-> Value
+- Rank
+- Value
 #### Methods
 > SetRank
 > SetValue
