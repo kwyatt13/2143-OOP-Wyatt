@@ -22,6 +22,18 @@ UML markup for Program 2.
 - GetValue
 - Print
 
+### Deck
+
+#### Description
+> A container of cards.
+
+#### Data
+- Size - How many cards in a deck.
+- Remaining - How many cards left
+
+#### Methods
+
+
 
 ## UML Diagram
 
