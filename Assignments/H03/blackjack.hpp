@@ -386,7 +386,7 @@ void Hand::Sort(){
         // Changed the control variable to size instead of size - 1
         for(int j=i;j<Size();j++){
             // Comparing cards at position i and j 
-            // Changed Cards[j - 1] to Cards[j]
+            // Changed Cards[j + 1] to Cards[j]
             if(Cards[i]->rank > Cards[j]->rank){
                 cout<<"swapping"<<endl;
 
